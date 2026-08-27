@@ -34,4 +34,4 @@ Solo fuentes oficiales. Nada de academias/blogs como fuente primaria — usarlos
 
 ## Rutina automática
 
-Revisión semanal (lunes 9:00 Madrid) de INAP + CARM, comparando contra el estado conocido y reportando cambios: https://claude.ai/code/routines/trig_01PCojSiT9CReUZ1AfHkyJFs
+Revisión semanal (lunes 9:00 Madrid) de INAP + CARM, comparando contra el estado conocido y reportando cambios: https://claude.ai/code/routines/trig_01UsApC89BaLdEJibeqrjNZc
