@@ -20,6 +20,7 @@ Los 74 temas completos (TAI + Murcia) en una sola página: índice lateral, busc
 | [plan_estudio.md](plan_estudio.md) | Plan de estudio semanal, sin depender de fecha de examen |
 | [examenes_y_plantillas.md](examenes_y_plantillas.md) | Exámenes oficiales de convocatorias anteriores y plantillas de respuestas (INAP) |
 | [enlaces_oficiales.md](enlaces_oficiales.md) | Todos los enlaces oficiales de vigilancia (BOE, INAP, CARM, BORM) |
+| [inscripcion_checklist.md](inscripcion_checklist.md) | Qué tener listo (Cl@ve, documentación, tasa) para inscribirse en cuanto salga la convocatoria |
 
 ### Teoría desarrollada (temario completo, no solo índice)
 
