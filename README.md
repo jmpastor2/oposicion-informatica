@@ -52,3 +52,4 @@ Si la rutina desaparece del panel (ha pasado ya una vez sin explicación clara),
 ## Requisito de titulación (ya cumplido)
 
 Grado Superior de FP cumple el requisito de acceso en ambos procesos (piden Bachillerato/FP2/Técnico Superior o equivalente, grupo C1). **No** cumple el requisito de GSI (A2) ni Cuerpo Superior TIC (A1) en la AGE, que exigen titulación universitaria — esos quedan descartados salvo promoción interna futura tras años como funcionario C1.
+
