@@ -5,6 +5,12 @@ Repositorio de trabajo para preparar oposiciones de informática al sector públ
 - **TAI** — Cuerpo de Técnicos Auxiliares de Informática de la Administración del Estado (AGE, grupo C1)
 - **Técnico Especialista, Opción Informática** — Comunidad Autónoma de la Región de Murcia (CARM, grupo C1)
 
+## 📖 Página de estudio
+
+**https://jmpastor2.github.io/oposicion-informatica/**
+
+Los 74 temas completos (TAI + Murcia) en una sola página: índice lateral, buscador, progreso por tema guardado en el navegador, tema claro/oscuro. Se genera con [scripts/build_legajo.py](scripts/build_legajo.py) a partir de `teoria/` — si editas el temario, vuelve a ejecutar el script y haz push de `index.html`.
+
 ## Contenido
 
 | Archivo | Qué contiene |

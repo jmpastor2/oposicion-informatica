@@ -16,7 +16,7 @@ import sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BASE = os.path.join(ROOT, "teoria")
 TEMPLATE = os.path.join(ROOT, "legajo_template.html")
-OUT = os.path.join(ROOT, "legajo.html")
+OUT = os.path.join(ROOT, "index.html")
 
 FILES = [
     ("TAI", "b1", "Bloque I — Organización del Estado y Administración electrónica", os.path.join(BASE, "TAI", "bloque1_organizacion_estado.md")),
