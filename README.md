@@ -36,6 +36,19 @@ Los 74 temas completos (TAI + Murcia) en una sola página: índice lateral, busc
 
 Contenido original redactado a partir de los programas oficiales (BOE/BORM) y normativa vigente citada por artículo — no copiado de apuntes de academias. Bloques III y IV de TAI llevan ejemplos de código (SQL, Java, C#) porque son los que entran en el supuesto práctico del examen.
 
+### Repaso activo: fichas resumen, casos prácticos resueltos y tests
+
+| Archivo | Qué contiene |
+|---|---|
+| [repaso/TAI/bloque1_resumen_test.md](repaso/TAI/bloque1_resumen_test.md) | Ficha resumen (datos concretos) + test 25 preguntas con soluciones justificadas |
+| [repaso/TAI/bloque2_resumen_casos_test.md](repaso/TAI/bloque2_resumen_casos_test.md) | Ficha resumen + 4 casos prácticos resueltos + test 20 preguntas |
+| [repaso/TAI/bloque3_casos_test.md](repaso/TAI/bloque3_casos_test.md) | 6 supuestos prácticos resueltos (E/R, SQL, Java, REST/SOAP, trigger, microservicios) + test 25 preguntas |
+| [repaso/TAI/bloque4_casos_test.md](repaso/TAI/bloque4_casos_test.md) | 7 supuestos prácticos resueltos (subnetting, backup RPO/RTO, RAID, firewall/VPN, incidente ransomware, TIER CPD, troubleshooting OSI) + test 25 preguntas |
+| [repaso/Murcia/comunes_resumen_test.md](repaso/Murcia/comunes_resumen_test.md) | Ficha resumen + test 25 preguntas |
+| [repaso/Murcia/especificas_casos_test.md](repaso/Murcia/especificas_casos_test.md) | 7 supuestos prácticos resueltos (AD/PowerShell, script bash, PL/SQL, RAID, subnetting, RGPD, HTML+JS) + test 30 preguntas |
+
+Total: **150 preguntas de test originales con solución justificada** + **24 casos prácticos resueltos paso a paso**, todo entrenando exactamente el formato real del examen (test + supuesto práctico en Bloques III/IV de TAI y en las materias específicas de Murcia).
+
 ## Situación de partida (agosto 2026)
 
 **TAI (AGE)**: última convocatoria resuelta (Resolución 18-dic-2025, BOE-A-2025-26262, 1.030 plazas libre + 340 promoción interna, examen 23-mayo-2026) ya en fase de corrección/resultados — nada que solicitar ahí.
